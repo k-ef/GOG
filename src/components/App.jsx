@@ -9,7 +9,7 @@ export default function App() {
     return (
         <>
 
-            <div className="bg-white h-screen">
+            <div className="bg-green h-screen">
                 {/* Header */}
                 <div className="h-24 mb-5 bg-grey flex items-center gap-x-2">
                     <div className="h-16 w-24 border-2 ml-4 text-white">
